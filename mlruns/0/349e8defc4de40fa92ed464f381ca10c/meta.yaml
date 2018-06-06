@@ -1,0 +1,13 @@
+artifact_uri: F:\Tartu Tasks\Test mlflow\mlruns\0\349e8defc4de40fa92ed464f381ca10c\artifacts
+end_time: null
+entry_point_name: !!python/unicode ''
+experiment_id: !!python/long '0'
+name: Run 1
+run_uuid: 349e8defc4de40fa92ed464f381ca10c
+source_name: !!python/unicode 'F:/Tartu Tasks/Test mlflow/mlflow/example/quickstart/test_sklearn.py'
+source_type: 4
+source_version: !!python/unicode 'aca724ebe63fad3ebcb32c0b9a78a0f717cb518d'
+start_time: 1528282680516
+status: 1
+tags: []
+user_id: !!python/unicode 'unknown'

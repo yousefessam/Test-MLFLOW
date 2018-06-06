@@ -1,0 +1,12 @@
+
+https://www.mlflow.org/docs/latest/tutorial.html
+
+pip install mlflow
+
+
+mlflow ui  127.0.0.15000
+
+open browser --> 127.0.0.15000
+
+mlflow.set_tracking_uri('http://127.0.0.1:5000')
+mlflow run example/tutorial -P alpha=0.4

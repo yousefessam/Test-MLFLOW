@@ -1,0 +1,13 @@
+artifact_uri: !!python/unicode 'F:\Tartu Tasks\Test mlflow\mlruns\0\d7b791c9c4494b86b7572c3fce2f0ec5\artifacts'
+end_time: 1528282984201
+entry_point_name: !!python/unicode ''
+experiment_id: !!python/long '0'
+name: !!python/unicode 'Run 2'
+run_uuid: !!python/unicode 'd7b791c9c4494b86b7572c3fce2f0ec5'
+source_name: !!python/unicode 'F:/Tartu Tasks/Test mlflow/mlflow/example/tutorial/train.py'
+source_type: 4
+source_version: !!python/unicode ''
+start_time: 1528282984081
+status: 3
+tags: []
+user_id: !!python/unicode 'unknown'
